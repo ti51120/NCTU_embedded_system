@@ -1,5 +1,4 @@
 # NCTU_embedded_system
-NCTU 2020 1st semester
 
 Development Board: E9V3-Embedsky
 
